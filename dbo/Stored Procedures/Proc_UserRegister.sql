@@ -17,14 +17,9 @@ CREATE PROCEDURE [dbo].[Proc_UserRegister]
 	,@Email				 as nvarchar(max)
 	,@Password			 as nvarchar(max)
 	,@ConfirmPassword	 as nvarchar(max)
-	--,@AadharFrontPageUrl as nvarchar(max)
-	--,@AadharBackPageUrl	 as nvarchar(max)
-	--,@PancardUrl		 as nvarchar(max)
-	--,@PhotoUrl			 as nvarchar(max)
+	
 	,@Createdby			 as nvarchar(max)
-	--,@CreatedDate		 as datetime
-	--,@Editedby			 as nvarchar(max)
-	--,@EditedDate		 as datetime
+	
 	,@IsActive			 as bit
 	
 AS
