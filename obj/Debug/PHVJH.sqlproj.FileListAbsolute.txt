@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\PHVJH\bin\Debug\PHVJH.dacpac
+C:\Users\Administrator\source\repos\PHVJH\bin\Debug\PHVJH.dll
+C:\Users\Administrator\source\repos\PHVJH\bin\Debug\PHVJH.pdb
+C:\Users\Administrator\source\repos\PHVJH\obj\Debug\PHVJH.sqlproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\PHVJH\obj\Debug\Model.xml
+C:\Users\Administrator\source\repos\PHVJH\obj\Debug\refactor.xml
+C:\Users\Administrator\source\repos\PHVJH\obj\Debug\postdeploy.sql
+C:\Users\Administrator\source\repos\PHVJH\obj\Debug\predeploy.sql
+C:\Users\Administrator\source\repos\PHVJH\obj\Debug\PHVJH.dll
+C:\Users\Administrator\source\repos\PHVJH\obj\Debug\PHVJH.pdb

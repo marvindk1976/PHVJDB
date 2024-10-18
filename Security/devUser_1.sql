@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [devUser]
+    WITH PASSWORD = N'Bxqoic0uzte{7zh{z{hLuktxmsFT7_&#$!~<yqdeaatyxzpj', SID = 0x31705D9849BD5244A30DD63B3006C9D6, DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+
